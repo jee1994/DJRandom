@@ -6,7 +6,7 @@ import android.view.Menu;
 //this is for sample commit 
 //한글이 써지는지 ? 
 /*
- * 
+ * 인덱스 추가 -> 
  * 프로젝트
  * 
  */
