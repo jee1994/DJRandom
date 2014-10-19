@@ -3,7 +3,13 @@ package com.example.djrandom;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-
+//this is for sample commit 
+//한글이 써지는지 ? 
+/*
+ * 
+ * 프로젝트
+ * 
+ */
 public class MainActivity extends Activity {
 
 	@Override
