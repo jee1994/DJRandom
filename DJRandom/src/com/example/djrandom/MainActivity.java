@@ -3,10 +3,9 @@ package com.example.djrandom;
 import android.os.Bundle;
 import android.app.Activity;
 import android.view.Menu;
-//this is for sample commit 
-//한글이 써지는지 ? 
+
 /*
- * 인덱스 추가 -> 
+ * 어떤 파일 코드나 코멘트 변경후 저장 -> 그 파일이나 프로젝트 폴더 오른쪽 클릭 -> team -> 인덱스 추가(Add to Index) -> Git 디렉토리에서 -> 프로젝트 폴더 오른쪽 클릭 -> commit -> 메시지 쓴후 commit and push. 
  * 프로젝트
  * 
  */
