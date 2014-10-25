@@ -12,6 +12,9 @@ import android.widget.Button;
  * 프로젝트 원격 서버에서 가져오기 
  * git 디렉토리 -> 오른쪽 클릭 -> pull 
  * 
+ * 
+ * 
+ * commit test
  */
 public class MainActivity extends Activity {
 
