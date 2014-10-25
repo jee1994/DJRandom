@@ -3,10 +3,42 @@
     android:layout_width="fill_parent"
     android:layout_height="fill_parent"
     >
-<Button
-	android:text="When you feel being bullied"
-	android:id="@+id/button"
-	android:layout_width="wrap_content"/>
-    </LinearLayout>
 
-</RelativeLayout>
+
+<Button
+	android:text="Murphy's Law"
+	android:id="@+id/button"
+	android:layout_width="wrap_content"
+	android:layout_height = "wrap_content"/>
+<Button
+	android:text="RELAX"
+	android:id="@+id/button1"
+	android:layout_width="wrap_content"
+	android:layout_height = "wrap_content"/>
+<Button
+	android:text="RUNNING"
+	android:id="@+id/button2"
+	android:layout_width="wrap_content"
+	android:layout_height = "wrap_content"/>
+<Button
+	android:text="PARTY"
+	android:id="@+id/button3"
+	android:layout_width="wrap_content"
+	android:layout_height = "wrap_content"/>
+<Button
+	android:text="WINTER"
+	android:id="@+id/button4"
+	android:layout_width="wrap_content"
+	android:layout_height = "wrap_content"/>
+<Button
+	android:text="RAINY"
+	android:id="@+id/button5"
+	android:layout_width="wrap_content"
+	android:layout_height = "wrap_content"/>
+
+    
+    
+   
+</LinearLayout>
+
+
