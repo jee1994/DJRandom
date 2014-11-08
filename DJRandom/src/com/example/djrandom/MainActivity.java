@@ -6,13 +6,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.widget.Button;
 
-/* git commit 하는 법 
- * 어떤 파일 코드나 코멘트 변경후 저장 -> 그 파일이나 프로젝트 폴더 오른쪽 클릭 -> team -> 인덱스 추가(Add to Index) -> Git 디렉토리에서 -> 프로젝트 폴더 오른쪽 클릭 -> commit -> 메시지 쓴후 commit and push. 
- * 
- * 프로젝트 원격 서버에서 가져오기 
- * git 디렉토리 -> 오른쪽 클릭 -> pull 
- * 
- * 
+/* 
  * 
  * commit test
  */
@@ -25,7 +19,7 @@ public class MainActivity extends Activity {
 		
 		setContentView(R.layout.activity_main);
 		
-		/* SOME FELLINGS*/
+		/* SOME FELLINGS change*/
 		
 		Button bid = (Button) findViewById(R.id.button);
 		Button bid1 = (Button) findViewById(R.id.button1);
